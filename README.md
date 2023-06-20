@@ -1,4 +1,4 @@
-#### Hi there 👋  I'm Pathum Bandara
+### Hi there 👋  I'm Pathum Bandara
 
 Currently, I am an undergraduate in Software Engineering and also full-stack developer with experience working on a variety of web development projects. I work on all aspects of the development life cycle, from planning and design to implementation and maintenance. My past work includes building user-focused, SEO-friendly, optimized, and standard functional websites using clean and maintainable code with MVC principles and responsive/adaptive/mobile-first design and development. Additionally, I have developed high-level/low-level Laravel packages and also a [Tech Content Writer](https://medium.com/@pathumb).
 
