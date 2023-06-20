@@ -6,7 +6,7 @@ Currently, I am an undergraduate in Software Engineering and also full-stack dev
 
 ### Stackoverflow / Github Stats
 <p align="center">
-<a href="https://github.com/pathumB/readme-components">
+<a href="#">
   <img width="45%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16347043&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pathumB&theme=tokyonight" alt="pathum" />
 </a>
