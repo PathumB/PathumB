@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋  I'm Pathum Bandara
+<hr/>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p align="left">  
