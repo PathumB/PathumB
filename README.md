@@ -18,7 +18,7 @@
 
 <!-- font end -->
 <a href="https://github.com/pathumB/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img width="50px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </a>
 <a href="https://github.com/pathumB/readme-components">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
