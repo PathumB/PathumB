@@ -1,7 +1,8 @@
-### Hi there 👋  I'm Pathum Bandara
+#### Hi there 👋  I'm Pathum Bandara
+
 <hr/>
 
-## Stackoverflow / Github Stats
+### Stackoverflow / Github Stats
 <p align="center">
 <a href="https://github.com/pathumB/readme-components">
   <img width="45%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16347043&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
@@ -11,7 +12,7 @@
 
 <hr/>
 
-## My Tech Stack
+### My Tech Stack
 
 <p align="center">  
 
@@ -82,8 +83,27 @@
 <br/> 
 <hr/>
 
-## Social Medias
 
-<p align="center">
-  
-</p>
+### Let's Talk
+
+  <div align="left">
+  <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="pathumbandarame@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="20" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
