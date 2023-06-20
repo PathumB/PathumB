@@ -1,5 +1,7 @@
 #### Hi there 👋  I'm Pathum Bandara
 
+Currently, I am an undergraduate in Software Engineering and also full-stack developer with experience working on a variety of web development projects. I work on all aspects of the development life cycle, from planning and design to implementation and maintenance. My past work includes building user-focused, SEO-friendly, optimized, and standard functional websites using clean and maintainable code with MVC principles and responsive/adaptive/mobile-first design and development. Additionally, I have developed high-level/low-level Laravel packages and also a [Tech Content Writer](https://medium.com/@pathumb).
+
 <hr/>
 
 ### Stackoverflow / Github Stats
@@ -18,7 +20,7 @@
 
 <!-- font end -->
 <a href="https://github.com/pathumB/readme-components">
-  <img width="50px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </a>
 <a href="https://github.com/pathumB/readme-components">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
