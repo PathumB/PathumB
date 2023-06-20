@@ -83,7 +83,6 @@ Currently, I am an undergraduate in Software Engineering and also full-stack dev
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900">
 </a>
-
 </p>
 
 <br/> 
