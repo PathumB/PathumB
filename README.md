@@ -1,6 +1,5 @@
-### Hi there 👋  I'm Pathum Bandara
 
-| ----------------- | -----------------------------------------------------------------  |
+| Name | Pathum Bandara 👋  |
 | ----------- | -------------------------------- |
 | Education   | B.Eng (Hons) in Software Engineering |
 | Experience  | FullStack Developer (1+ years) |
