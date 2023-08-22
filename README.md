@@ -59,7 +59,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248">
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=3498db">
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
@@ -71,7 +71,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=007396">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FF5722">
 </a>
 
 <!-- other end -->
