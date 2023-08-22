@@ -39,13 +39,13 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
 <a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=0769AD">
+</a>
+<a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=0769AD">
 </a>
 <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
