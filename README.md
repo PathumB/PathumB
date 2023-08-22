@@ -33,6 +33,9 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
 </a>
 <a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
+</a>
+<a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
 <a href="#">
