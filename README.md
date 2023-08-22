@@ -7,7 +7,7 @@
 | 📍 Publications | Laravel high/low level packages, [Tech Articles](https://medium.com/@pathumb) |
 
 <hr/>
-...
+
 ### Stackoverflow / Github Stats
 <p align="center">
 <a href="#">
