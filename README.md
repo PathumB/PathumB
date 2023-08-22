@@ -62,6 +62,9 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
 </a>
 <a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
+</a>
+<a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
 </a>
 <a href="#">
