@@ -5,7 +5,7 @@
 | 📍 Education   | B.Eng (Hons) in Software Engineering (UG) |
 | 📍 Experience  | FullStack Developer (1+ years) |
 | 📍 Publications | Laravel high/low level packages, [Tech Articles](https://medium.com/@pathumb) |
-asdasd
+
 <hr/>
 
 ### Stackoverflow / Github Stats
