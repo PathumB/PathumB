@@ -1,7 +1,7 @@
 
 | 🔹🔹🔹🔹🔹🔹 | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  |
 | ----------- | -------------------------------- |
-| Name   | Pathum Bandara |
+| 📍 Name   | Pathum Bandara |
 | 📍 Education   | B.Eng (Hons) in Software Engineering (UG) |
 | 📍 Experience  | FullStack Developer (1+ years) |
 | 📍 Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
