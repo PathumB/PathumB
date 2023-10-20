@@ -23,7 +23,8 @@
 <p align="center">  
 
 <!-- font end -->
-<span onclick="window.location.href='#'">
+<a href="#">
+<span>
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </span>
 <a href="#">
@@ -52,6 +53,7 @@
 </a>
 <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
 </a>
 
 <!-- back end -->
