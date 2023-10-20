@@ -110,14 +110,15 @@
 ### Let's Talk
   <div align="left">
 <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ff69b4&style=plastic&logo=linkedin&logo-color=white" height="25" alt="LinkedIn logo" />
+  <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=696969&style=plastic&logo=linkedin&logo-color=white" height="25" alt="LinkedIn logo" />
 </a>
 <a href="mailto:pathumbandarame@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=00ff00&style=plastic&logo=gmail&logo-color=white" height="25" alt="Gmail logo" />
+  <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=696969&style=plastic&logo=gmail&logo-color=white" height="25" alt="Gmail logo" />
 </a>
 <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=ff5733&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
+  <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=696969&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
 </a>
+
 
 
 <!-- 
