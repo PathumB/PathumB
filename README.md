@@ -108,8 +108,9 @@
 
 <hr/>
 
-### Published Tech Articles
-![Pathum Medium](https://github-readme-medium.vercel.app/?username=pathumb)](https://medium.com/@pathumb)
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/784a9176a57494c001a43ead7504396dbd0fb913ed0d022ad1800fc60712ada4/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465266475726174696f6e3d343030302670617573653d313030302677696474683d323430266c696e65733d49276d2b412b4943542b53747564656e742532433b537461636b2b446576656c6f7065722532433b4163746976652b4c6561726e65722532433b416e642b476f6f642b7465616d2b6c65616465722e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;duration=4000&amp;pause=1000&amp;width=240&amp;lines=I'm+A+ICT+Student%2C;Stack+Developer%2C;Active+Learner%2C;And+Good+team+leader." style="max-width: 100%;"></a></p>
+
+<hr/>
 
 ### Let's Talk
 <div align="left">
