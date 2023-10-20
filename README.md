@@ -112,7 +112,7 @@
 <div align="left">
   <p style="display: inline;">
     <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=1D1D1D&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
+      <img src="https://img.shields.io/static/v1?label=|&message=STACK OVERFLOW&color=1D1D1D&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
     </a>
   </p>
   <p style="display: inline;">
