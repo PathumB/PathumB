@@ -109,7 +109,7 @@
 
 ### Let's Talk
   <div align="left">
-<a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank" style="color: transparent;">
+<a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1D1D1D&style=plastic&logo=linkedin&logo-color=white" height="25" alt="LinkedIn logo" />
 </a>
 <a href="mailto:pathumbandarame@gmail.com" target="_blank" style="color: transparent;">
