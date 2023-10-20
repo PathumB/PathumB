@@ -108,7 +108,7 @@
 
 
 ### Let's Talk
-
+<img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ff&style=plastic&logo=linkedin&logo-color=white" width="32" height="20" alt="linkedin logo"  />
   <div align="left">
   <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ff&style=plastic&logo=linkedin&logo-color=white" width="32" height="20" alt="linkedin logo"  />
