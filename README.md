@@ -118,7 +118,7 @@
   <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=ff&style=plastic&logo=stackoverflow&logo-color=white" height="20" alt="linkedin logo" />
   </a>
-
+<!-- 
   <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
@@ -128,4 +128,5 @@
   <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="20" alt="stackoverflow logo"  />
   </a>
+    -->
 </div>
