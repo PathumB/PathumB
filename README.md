@@ -128,7 +128,7 @@
 
   <hr>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile ❤️;Have+a+good+day)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile;Have+a+good+day)](https://git.io/typing-svg)
   
 </div>
 
