@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ff&style=plastic&logo=linkedin&logo-color=white" height="20" alt="linkedin logo" />
   </a>
   <a href="mailto:pathumbandarame@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=ff&style=plastic&logo=email&logo-color=white" height="20" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=ff&style=plastic&logo=gmail&logo-color=white" height="20" alt="linkedin logo" />
   </a>
   <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=ff&style=plastic&logo=stackoverflow&logo-color=white" height="20" alt="linkedin logo" />
