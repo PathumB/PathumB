@@ -110,6 +110,7 @@
 ### Let's Talk
 
   <div align="left">
+    [![Type 1](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=plastic&logo=logoname&logo-color=white)]
   <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
