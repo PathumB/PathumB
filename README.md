@@ -23,9 +23,9 @@
 <p align="center">  
 
 <!-- font end -->
-<a href="#">
+<span >
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-</a>
+</span>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031">  
 </a>
