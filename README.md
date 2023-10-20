@@ -108,32 +108,17 @@
 
 
 ### Let's Talk
-  <div align="left">
+<div align="left">
   <p>
     <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=1D1D1D&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
     </a>
-  </p>
-  <p>
-    </p><a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
+    <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1D1D1D&style=plastic&logo=linkedin&logo-color=white" height="25" alt="LinkedIn logo" />
     </a>
-  </p>
-  <p>
     <a href="mailto:pathumbandarame@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=1D1D1D&style=plastic&logo=gmail&logo-color=white" height="25" alt="Gmail logo" />
     </a>
   </p>
-
-<!-- 
-  <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pathumbandarame@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="20" alt="stackoverflow logo"  />
-  </a>
-    -->
 </div>
+
