@@ -104,7 +104,7 @@
 <br/> 
 <hr/>
 
-[ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=true)
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=true)]
 
 <br/> 
 <hr/>
