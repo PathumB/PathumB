@@ -1,4 +1,4 @@
-
+### About Me,
 | 🔹🔹🔹🔹🔹🔹 | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  |
 | ----------- | -------------------------------- |
 | 📍 Name   | Pathum Bandara |
@@ -106,7 +106,6 @@
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=false)
 
-<br/> 
 <hr/>
 
 ### Let's Talk
