@@ -64,11 +64,9 @@
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
 </a>
-<!-- springboot -->
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F" alt="Spring Boot" />  
 </a>
-
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
 </a>
@@ -106,6 +104,10 @@
 <br/> 
 <hr/>
 
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=true)
+
+<br/> 
+<hr/>
 
 ### Let's Talk
 <div align="left">
