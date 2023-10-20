@@ -108,6 +108,9 @@
 
 <hr/>
 
+### Published Tech Articles
+![Pathum Medium](https://github-readme-medium.vercel.app/?username=pathumb)](https://medium.com/@pathumb)
+
 ### Let's Talk
 <div align="left">
   <p style="display: inline;">
