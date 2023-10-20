@@ -104,7 +104,7 @@
 <br/> 
 <hr/>
 
-[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=false)
+![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathumB&theme=radical&hide_border=true)
 
 <hr/>
 
@@ -126,9 +126,7 @@
     </a>
   </p>
 
-  <hr>
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile;Have+a+good+day)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Code+with+passion...;Have+a+nice+day!)
   
 </div>
 
