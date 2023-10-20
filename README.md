@@ -23,10 +23,9 @@
 <p align="center">  
 
 <!-- font end -->
-<a href="#">
-<span>
+<a href="#" color="transparent">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-</span>
+</a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031">  
 </a>
@@ -53,7 +52,6 @@
 </a>
 <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
 </a>
 
 <!-- back end -->
