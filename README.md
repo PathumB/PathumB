@@ -109,21 +109,21 @@
 
 ### Let's Talk
 <div align="left">
-  <span style="display: inline;">
+  <p style="display: inline;">
     <a href="https://stackoverflow.com/users/16347043/pathum-bandara" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=STACKOVERFLOW&color=1D1D1D&style=plastic&logo=stackoverflow&logo-color=white" height="25" alt="Stack Overflow logo" />
     </a>
-  </span>
-  <span style="display: inline;">
+  </p>
+  <p style="display: inline;">
     <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1D1D1D&style=plastic&logo=linkedin&logo-color=white" height="25" alt="LinkedIn logo" />
     </a>
-  </span>
-  <span style="display: inline;">
+  </p>
+  <p style="display: inline;">
     <a href="mailto:pathumbandarame@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=1D1D1D&style=plastic&logo=gmail&logo-color=white" height="25" alt="Gmail logo" />
     </a>
-  </span>
+  </p>
 </div>
 
 
