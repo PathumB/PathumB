@@ -110,9 +110,9 @@
 ### Let's Talk
 
   <div align="left">
-<a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
-  <img src="https://image-url-for-linkedin-logo.png" width="32" height="32" alt="LinkedIn logo" />
-</a>
+  <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ff&style=plastic&logo=linkedin&logo-color=white" width="32" height="20" alt="linkedin logo"  />
+  </a>
 
   <a href="https://www.linkedin.com/in/pathum-bandara-853892210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
