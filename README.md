@@ -27,13 +27,13 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&animation=spin&svgfill=DD0031">  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031">  
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&animation=spin&svgfill=3880FF">
 </a>
 <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
