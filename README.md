@@ -23,7 +23,7 @@
 <p align="center">  
 
 <!-- font end -->
-<span >
+<span onclick="window.location.href='#'">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </span>
 <a href="#">
