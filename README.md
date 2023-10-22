@@ -126,7 +126,7 @@
     </a>
   </p>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Code+with+passion!;Have+a+nice+day+:))
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Code+with+passion:);Have+a+nice+day!)
   
 </div>
 
