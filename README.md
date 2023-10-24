@@ -45,6 +45,9 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
 </a>
 <a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00">
+</a>
+<a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
 </a>
 <a href="#">
@@ -65,19 +68,16 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
 </a>
 <a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FF5722">
+</a>
+<a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F" alt="Spring Boot" />  
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00">
-</a>
-<a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FF5722">
 </a>
 
 <!-- other end -->
