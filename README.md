@@ -33,9 +33,6 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
 </a>
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
-</a>
-<a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
 <a href="#">
@@ -43,6 +40,9 @@
 </a>
 <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
@@ -70,10 +70,6 @@
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
 </a>
-
-
-
-
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00">
 </a>
