@@ -70,8 +70,12 @@
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
 </a>
+
+
+
+
 <a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=FF0000">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00">
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
