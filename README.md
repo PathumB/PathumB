@@ -7,7 +7,7 @@
 | 📍 Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
 
 <hr/>
-dbd
+
 ### Stackoverflow / Github Stats
 <p align="center">
 <a href="#">
@@ -69,6 +69,9 @@ dbd
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
+</a>
+<a href="#">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=FF0000">
 </a>
 <a href="#">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
