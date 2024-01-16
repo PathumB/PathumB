@@ -1,10 +1,10 @@
 ### About Me,
 | 🔹🔹🔹🔹🔹🔹 | 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  |
 | ----------- | -------------------------------- |
-| 📍 Name   | Pathum Bandara |
-| 📍 Education   | B.Eng (Hons) in Software Engineering (UG) |
-| 📍 Experience  | FullStack Developer (2yrs) & Software Developer (1 month+) |
-| 📍 Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
+| Name   | Pathum Bandara |
+| Education   | B.Eng (Hons) in Software Engineering (UG) |
+| Experience  | FullStack Developer (2yrs) & Software Developer (1 month+) |
+| Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
 
 <hr/>
 
