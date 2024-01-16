@@ -20,89 +20,53 @@
 
 ### My Tech Stack
 
-<p align="center">  
+ <details open="">
+  <summary>
+    Backend:
+  </summary>
+  <br>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=3498db"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FF5722"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F" alt="Spring Boot"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4"></a></code>
+ </details>
+<br/>
+<details open="">
+  <summary>
+    Frontend:
+  </summary>
+  <br>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=0769AD"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799"></a></code>
+</details>
+<br/>
+  <details open="">
+  <summary>
+    Other:
+  </summary>
+  <br>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gitlab&svgfill=FCA121"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bitbucket&svgfill=0052CC"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900"></a></code>
+<code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=clickup&svgfill=7B68EE"></a></code>
 
-<!-- font end -->
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031">  
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
-</a>
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=0769AD">
-</a>
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ionic&svgfill=3880FF">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=00FF00">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
-</a>
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
-
-<!-- back end -->
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=3498db">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=FF5722">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F" alt="Spring Boot" />  
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
-</a>
-
-<!-- other end -->
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
-</a>
-<a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gitlab&svgfill=FCA121">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bitbucket&svgfill=0052CC">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624">
-</a>
-<a href="#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900">
-</a>
-</p>
+</details>
 
 <br/> 
 <hr/>
@@ -134,5 +98,4 @@
 <p align="right" dir="auto"> Created by <a href="https://github.com/pathumB">pathumB</a></p>
 <p align="right" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0abda9c95fa64ff210fe62b693bb8ed1b955867b18427bc326f8236392f18fc2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d52617468657368616e3033266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/0abda9c95fa64ff210fe62b693bb8ed1b955867b18427bc326f8236392f18fc2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d52617468657368616e3033266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="pathumB" data-canonical-src="https://komarev.com/ghpvc/?username=pathumB&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 </h4>
-
 
