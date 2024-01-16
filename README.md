@@ -95,6 +95,5 @@
   <img align="left" alt="Pathum Bandara | Stack Overflow" width="26px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" style="max-width: 100%;">
 </a>
   <br>
-<p align="right" dir="auto"> Created by <a href="https://github.com/pathumB">pathumB</a></p>
 </h4>
 
