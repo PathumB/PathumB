@@ -64,13 +64,8 @@
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"></a></code>
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624"></a></code>
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900"></a></code>
-<code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=clickup&svgfill=7B68EE"></a></code>
-<code>
-    <a href="#" rel="nofollow">
-        <img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759B">
-    </a>
-</code>
-
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759B"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=clickup&svgfill=7B68EE"></a></code>
 </details>
 
 <br/> 
