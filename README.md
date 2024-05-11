@@ -3,7 +3,7 @@
 | ----------- | -------------------------------- |
 | Name   | Pathum Bandara |
 | Education   | B.Eng (Hons) in Software Engineering (UG) |
-| Experience  | FullStack Developer (3<sup>+</sup>years) |
+| Experience  | Software Developer & Co-Founder of XynoSync |
 | Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
 
 <hr/>
