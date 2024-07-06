@@ -67,6 +67,7 @@
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759B"></a></code>
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E"></a></code>
   <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=clickup&svgfill=7B68EE"></a></code>
+  <code><a href="#" rel="nofollow"><img height="40" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jira&svgfill=0052CC"></a></code>
 </details>
 
 <br/> 
