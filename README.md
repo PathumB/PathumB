@@ -3,7 +3,7 @@
 | ----------- | -------------------------------- |
 | Name   | Pathum Bandara |
 | Education   | B.Eng (Hons) in Software Engineering (UG) |
-| Experience  | Software Developer (exp: 2years+) |
+| Experience  | Software Developer (exp: 3years+) |
 | Publications | Laravel low/high level packages, [Tech Articles](https://medium.com/@pathumb) |
 
 <hr/>
